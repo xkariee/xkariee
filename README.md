@@ -17,3 +17,5 @@ I like to experiment with programs, and do stuff my way.<br>
 <a href="https://www.youtube.com/channel/UC3BfDOzWaS7RLOXQURQoW4w" target="_blank"><img alt="youtube" align="center" src="https://img.shields.io/badge/-Youtube-0D1117?style=flat-square&logo=youtube&logoColor=white"></a>
 <a href="https://www.twitch.tv/xkariee" target="_blank"><img alt="twitch" align="center" src="https://img.shields.io/badge/-Twitch-0D1117?style=flat-square&logo=twitch&logoColor=white"></a>
 <a href="https://steamcommunity.com/id/xkariee/" target="_blank"><img alt="steam" align="center" src="https://img.shields.io/badge/-Steam-0D1117?style=flat-square&logo=steam&logoColor=white"></a>
+
+<img width="100%" align="right" alt="Snake" src="https://github.com/KoRrNiK/KoRrNiK/blob/output/github-contribution-grid-snake.svg">
