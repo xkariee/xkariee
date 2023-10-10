@@ -18,4 +18,8 @@ I like to experiment with programs, and do stuff my way.<br>
 <a href="https://www.twitch.tv/xkariee" target="_blank"><img alt="twitch" align="center" src="https://img.shields.io/badge/-Twitch-0D1117?style=flat-square&logo=twitch&logoColor=white"></a>
 <a href="https://steamcommunity.com/id/xkariee/" target="_blank"><img alt="steam" align="center" src="https://img.shields.io/badge/-Steam-0D1117?style=flat-square&logo=steam&logoColor=white"></a>
 
-<img width="100%" align="right" alt="Snake" src="https://github.com/xkariee/xkariee/blob/output/github-contribution-grid-snake.svg">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="" src="github-snake.svg" />
+</picture>
