@@ -3,13 +3,12 @@
 
 <br>
 
-<p align="right">
 > Hi! I dont like to use my name, but in the Internet they call me **kariee**
 I'm __17 years__old web developer (also web designer in some way) from Poland. I has been coding for more than __3 years__ for fun.
 I like to experiment with programs, and do stuff my way.
 <br>
 <sub>**Most of the time i spent as FiveM developer for expirience, and mostly for fun**</sub>
-</p>
+  
 <br>
 
 #### Contact / Socials
