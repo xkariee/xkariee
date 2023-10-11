@@ -1,20 +1,10 @@
 name: Snake SVG
 
-on:
-    # every 6 hours
-    schedule:
-        - cron: '0 */6 * * *'
-
-    workflow_dispatch:
-
-    push:
-        branches:
-            - main
+on: [push]
 
 jobs:
-    generate:
+    release:
         runs-on: ubuntu-latest
-        timeout-minutes: 10
 
         steps:
             - uses: Platane/snk@v3
