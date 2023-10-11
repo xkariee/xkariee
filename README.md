@@ -19,7 +19,7 @@ I like to experiment with programs, and do stuff my way.<br>
 <a href="https://steamcommunity.com/id/xkariee/" target="_blank"><img alt="steam" align="center" src="https://img.shields.io/badge/-Steam-0D1117?style=flat-square&logo=steam&logoColor=white"></a>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xkariee/xkariee/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xkariee/xkariee/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/xkariee/xkariee/output/github-contribution-grid-snake.svg">
 </picture>
