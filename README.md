@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://r2.fivemanage.com/yIFAbhpeqrUcFaLtFHQ26/images/avatar_black_cat.jpg"  />
 
 ###
 
